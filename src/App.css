@@ -1,13 +1,18 @@
 html {
-  color-scheme: light dark;
-  font-family: system-ui;
-  display: flex;
-  /* align-items: center; */
-  justify-content: center;
-  height: 100%;
-  margin: 24px;
+    color-scheme: light dark;
+    font-family: system-ui;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    height: 100%;
+    margin: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
 }
 
 .section {
-  /* text-align: center; */
+    /* text-align: center; */
 }
