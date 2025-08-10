@@ -1,11 +1,15 @@
 ## Personal website
 
-### V1 goals: 
+### V1 goals: (1-2 days)
 - [ ] Text view of resume
 - [ ] Anchors for different sections
 - [ ] 2 cat pictures
 
-### V2 goals:
+### V2 goals: (7-14 days)
+- [ ] Stylize website to look better
+
+### V3 goals: (? days)
+- [ ] Light / dark mode
 - [ ] Interactive animation
   - Maybe using Lottie?
   - Inspiration: 
