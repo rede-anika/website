@@ -79,12 +79,13 @@ export function App() {
             </div>
             <div id="contact-section" className="section">
                 <h1>Contact section</h1>
-                <ul>
-                    <li>Github</li>
-                    <li>LinkedIn</li>
-                    <li>Instagram</li>
-                    <li>Strava</li>
-                </ul>
+                <p>Official email address</p>
+                <div className="contact-buttons">
+                    <IconButton icon="bi bi-github" label="Github" />
+                    <IconButton icon="bi bi-linkedin" label="LinkedIn" />
+                    <IconButton icon="bi bi-instagram" label="Instagram" />
+                    <IconButton icon="bi bi-strava" label="Strava" />
+                </div>
             </div>
         </>
     );
